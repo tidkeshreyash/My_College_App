@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="P. R. Pote Patil College of Engineering &amp; Management, Amravati"
+        android:textAppearance="?android:attr/textAppearanceLarge" 
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textColor="#ff0000"
+        android:background="#87CEFA"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:paddingTop="20dp"
+        android:text="P. R. Pote Patil College of Engineering and Management, Amravati was established in the year, 2008 with the aim of providing professional education in the field of Engineering with an area of 10 acres. The College is focused on creating versatile engineers who can apply their knowledge and skills anywhere in the world. It is well known as a reputed institute for under-graduate programs in Civil Engineering, Computer Science and Engineering, Electrical Engineering, Artificial Intelligence and Data Science, Electronics &amp; Telecommunication Engineering and Mechanical Engineering; and post-graduate programmes in Computer Science and Engineering, Electrical Engineering, Electronics &amp; Telecommunication Engineering and Mechanical Engineering. The college also offers MBA and MCA courses. The Institute endeavours to provide quality technical education in line with the requirements of today’s competitive industry and fast paced technological developments. Realizing the fact that faculty is the most important resource, special efforts have been made to find, recruit and retain highly qualified and competent faculty. State of the art infrastructure created and acquired by the Institute is of a very high quality and includes multimedia classrooms, Wifi Campus, well equipped laboratories, well stocked modern library with digital media, AV theatres, seminar halls &amp; Swami Vivekanand Auditorium having capacity of 10000."
+        android:textSize="20dp"
+        android:background="#FFFFCC" />
+
+</LinearLayout>

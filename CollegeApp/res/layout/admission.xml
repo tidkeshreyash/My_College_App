@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contact Details For Admission"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="266dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:paddingTop="20dp"
+        android:text="BE (UG)"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ff0000"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textSize="20dp"
+        android:background="#FFFFCC"
+        android:text="Ph No: 8830274480, 9823962311, 8830940378, 9503611038, 7987738913" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ME (PG)"
+        android:textColor="#ff0000"
+        android:textSize="25dp"
+        android:layout_marginLeft="110dp"
+        android:paddingTop="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="295dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#FFFFCC"
+        android:text="Ph No: 7588254772"
+        android:textSize="20dp" />
+    
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MBA (PG)"
+        android:textColor="#ff0000"
+        android:textSize="25dp"
+        android:layout_marginLeft="110dp"
+        android:paddingTop="20dp"
+        android:textStyle="bold" />
+    
+     <TextView
+        android:id="@+id/textView5"
+        android:layout_width="295dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#FFFFCC"
+        android:text="Ph No: 9370151909"
+        android:textSize="20dp" />
+     
+     <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MCA (PG)"
+        android:textColor="#ff0000"
+        android:textSize="25dp"
+        android:layout_marginLeft="110dp"
+        android:paddingTop="20dp"
+        android:textStyle="bold" />
+     
+     <TextView
+        android:id="@+id/textView5"
+        android:layout_width="295dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#FFFFCC"
+        android:text="Ph No: 9850187424, 9890039315"
+        android:textSize="20dp" />
+
+</LinearLayout>
